@@ -1,3 +1,6 @@
+# Loom Video
+https://www.loom.com/share/4ffbe9960e30409292bb2d9715cb530a
+
 # NEAR-blog-dapp
 A blog dapp smart contract written in Assembly Script for NEAR protocol
 
