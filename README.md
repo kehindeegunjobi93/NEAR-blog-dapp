@@ -60,7 +60,7 @@ You can run this contract in the terminal by calling the exported functions
 ## Delete
 - Takes 1 parameter (the id). 
 - Delete a blog data that carries that particular id.
-- **Example call:** blog-dapp % near call $CONTRACT delete '{"id":123456778}' --accountId $YOUR_ACCOUNT_ID
+- **Example call:** blog-dapp % near call $CONTRACT del '{"id":123456778}' --accountId $YOUR_ACCOUNT_ID
 
 
 # NEAR-blog-dapp
